@@ -1,0 +1,8 @@
+prefix=/home/jt/catkin_ws/install
+
+Name: turtle_move
+Description: Description of turtle_move
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jt/catkin_ws/install/lib 
+Requires: 

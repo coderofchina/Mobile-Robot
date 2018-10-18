@@ -1,0 +1,8 @@
+prefix=/home/jt/catkin_ws/install
+
+Name: turtlebot2i_control
+Description: Description of turtlebot2i_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jt/catkin_ws/install/lib 
+Requires: 
